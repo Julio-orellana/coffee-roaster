@@ -1,4 +1,4 @@
-# 🔧 Sistema de Monitoreo de Tostado de Café
+# 🔧 Sistema de Monitoreo de Tostado de Café.
 
 Este programa permite **supervisar el proceso de tostado de granos de café** utilizando un **sensor de temperatura MAX6675** y un **Arduino UNO**.  
 El sistema detecta cuándo inicia el tostado, muestra información en tiempo real sobre la temperatura y el tiempo transcurrido, y advierte si se alcanzan temperaturas peligrosas.
