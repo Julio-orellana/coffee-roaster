@@ -78,7 +78,7 @@ En caso de advertencia:
 ## 🧾 Autor
 
 Proyecto desarrollado como parte de un sistema experimental de **control de tostado de café con Arduino**.  
-📍 Universidad del Valle de Guatemala  
+📍 Universidad San Pablo de Guatemala
 💡 Versión inicial sin control automático del apagado.
 
 ---
