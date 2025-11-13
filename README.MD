@@ -77,7 +77,7 @@ En caso de advertencia:
 
 ## 🧾 Autor
 
-Proyecto desarrollado como parte de un sistema experimental de **control de tostado de café con Arduino**.  
+Proyecto desarrollado como parte del proyecto final del curso **Arquitectura de negocios 1**.
 📍 Universidad San Pablo de Guatemala
 💡 Versión inicial sin control automático del apagado.
 
